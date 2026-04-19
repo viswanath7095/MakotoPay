@@ -9,7 +9,6 @@ Digital Wallet &amp; Payment Processing  System built with Spring Boot 4.x, JWT,
 ![JWT](https://img.shields.io/badge/JWT-Security-yellow)
 ![Swagger](https://img.shields.io/badge/Swagger-API%20Docs-green)
 
----
 
 ## 🚀 About The Project
 
