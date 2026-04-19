@@ -1,6 +1,6 @@
 # MakotoPay
 Digital Wallet &amp; Payment Processing  System built with Spring Boot 4.x, JWT, Redis, MySQL
-# 💳 MakoToPay — Digital Wallet & Payment Processing System
+# 💳 MakotoPay — Digital Wallet & Payment Processing System
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0.5-brightgreen)
 ![Java](https://img.shields.io/badge/Java-21-orange)
@@ -12,7 +12,7 @@ Digital Wallet &amp; Payment Processing  System built with Spring Boot 4.x, JWT,
 
 ## 🚀 About The Project
 
-**MakoToPay** is a production-grade Digital Wallet & Payment 
+**MakotoPay** is a production-grade Digital Wallet & Payment 
 Processing System that solves real-world payment problems 
 like double payments, fraud detection, and rate limiting —
 the same problems solved by PhonePe, GPay and Razorpay.
@@ -190,7 +190,7 @@ http://localhost:8080/swagger-ui/index.html
 
 **Viswanath**
 - GitHub: [@viswanath7095](https://github.com/viswanath7095)
-- Project: MakoToPay Digital Wallet System
+- Project: MakotoPay Digital Wallet System
 
 ---
 
